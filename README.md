@@ -89,6 +89,3 @@ Target: example.com
 
 ---
 
-## License
-
-MIT
