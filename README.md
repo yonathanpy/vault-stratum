@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/500/000000/database.png" width="200" alt="VAULT-STRATUM Database Icon"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="256" height="256" alt="Vault Stratum Logo" />
 </p>
-
 
 # VAULT‑STRATUM
 
