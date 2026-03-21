@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=200&section=header&text=VAULT-STRATUM&fontSize=60&fontColor=ffaa00&desc=Witwizard&descSize=18&descAlign=50&textAlign=center&fontAlignY=50&descAlignY=80&descColor=cccccc&descFont=monospace" />
+<<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111100,100:222200&height=180&section=header&text=VAULT‑STRATUM🛢️Integrity+Vault&fontSize=60&fontColor=ffcc00&desc=Witwizard&descSize=18&descColor=cccccc" />
 </p>
+
+# VAULT‑STRATUM
 
 # VAULT-STRATUM
 
