@@ -1,4 +1,6 @@
-# VAULT-STRATUM
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=glass&color=0:0b0b0b,100:222222&height=180&section=header&text=VAULT-STRATUM&fontSize=60&fontColor=ffaa00&desc=Witwizard&descSize=18&descAlign=50" />
+</p>
 
 Modular reconnaissance and execution framework designed for controlled security research and network analysis.
 
