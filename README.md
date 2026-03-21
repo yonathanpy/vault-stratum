@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111100,100:222200&height=180&section=header&text=VAULT-STRATUM🛢️Integrity+Vault&fontSize=60&fontColor=ffcc00&desc=Witwizard&descSize=18&descColor=cccccc" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="256" height="256" alt="Vault Stratum Logo" />
 </p>
-
-# VAULT‑STRATUM
 
 
 Modular reconnaissance and execution framework designed for controlled security research and network analysis.
