@@ -2,11 +2,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="256" height="256" alt="Vault Stratum Logo" />
 </p>
 
-# VAULT‑STRATUM
-
-# VAULT‑STRATUM
-
-# VAULT-STRATUM
 
 Modular reconnaissance and execution framework designed for controlled security research and network analysis.
 
