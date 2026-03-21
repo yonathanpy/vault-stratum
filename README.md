@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b0b,100:111111&height=180&section=header&text=VAULT-STRATUM&fontSize=60&fontColor=ffaa00&desc=Witwizard&descSize=18&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=200&section=header&text=VAULT-STRATUM&fontSize=60&fontColor=ffaa00&desc=Witwizard&descSize=18&descAlign=50&textAlign=center&fontAlignY=50&descAlignY=80&descColor=cccccc&descFont=monospace" />
 </p>
+
+# VAULT-STRATUM
 
 Modular reconnaissance and execution framework designed for controlled security research and network analysis.
 
