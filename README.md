@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/sqlite.svg" width="256" height="256" alt="Vault Stratum Logo" />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAMAAAC5zwqKAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAd0SU1FB+YJEg4bJIkxWT0AAAGHSURBVHja7dQxDoIwEATQvP//9PyG0UjQG8xvIDnZGx2Uh2QX8pARCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJ+S+4+v0zuvpOFKdmo+3XRkl6dnZ0o7enp6RlN5+fna/2JV944vvuUfXz8/Nzp7e3u429vZ2TEj8qM+UXl5cvn379nZvbm4+fPny8W3t7fTM/OUlJSY2NjRUVFBoaGgODg4LCwsMDIyAiAgIAAAAPDw8fHx8+Pj4eHh4QEBAT///wAAAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAAA+AOkcAPz//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAAAAD+AAHFDNXCAAAAAElFTkSuQmCC" width="400" alt="Vault Stratum Banner" />
 </p>
 
+# VAULT‑STRATUM
 
 Modular reconnaissance and execution framework designed for controlled security research and network analysis.
 
